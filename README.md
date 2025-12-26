@@ -10,10 +10,7 @@ This is a text editor created in C for personal use, which was inspired by the "
 
 **Clone the Repository, Change the Directory, and Run**
 
-git clone https://github.com/mtkaz1/C-Text-Editor.git..
-cd C-Text-Editor..
-make kilo..
-./kilo
+git clone https://github.com/mtkaz1/C-Text-Editor.git  cd C-Text-Editor  make kilo  ./kilo
 
 ## Goal
 
