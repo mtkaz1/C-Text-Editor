@@ -3,6 +3,7 @@
 
 This is a text editor created in C for personal use, which was inspired by the "Build your own text editor" tutorial which will be referenced, but with some personal changes for my own use.
 
+<img width="1917" height="1156" alt="Image" src="https://github.com/user-attachments/assets/48fec232-ce9d-4cde-bf7f-47072617f852" />
 
 
 ## Usage
